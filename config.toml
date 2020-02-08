@@ -4,10 +4,11 @@ title = "Rohith Uppala's Blog"
 theme = "yinyang"
 DefaultContentLanguage = "en"
 
-
 [params]
 headTitle = "Rohith Uppala"
 mainSections = ["posts"]
+disqus = "rohithuppala"
+
 
 [languages]
     [languages.en]
