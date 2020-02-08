@@ -65,11 +65,11 @@ For folks who do not know Bouldering, here you go [Bouldering](https://en.wikipe
 Since I was a kid, I have been fascinated with storytelling. I still remember the days when my mom / grandma used to tell me all kinds of interesting stories. This planted the seed for my imaginations and it has grown into a sapling. I think it's time that I share all these amazing stories which i gathered so far with people all around the world. I am so psyched about this.
 
 
-* Perform a storytelling night in Amsterdam ( preferably mezrab)
-* Write. Just write
-    * one short story (0.3)
-    * one long story (0.7)
-    * two long stories (1.0)
+> * Perform a storytelling night in Amsterdam ( preferably mezrab)
+> * Write. Just write
+>    * one short story (0.3)
+>    * one long story (0.7)
+>    * two long stories (1.0)
 
 
 
@@ -77,9 +77,9 @@ Since I was a kid, I have been fascinated with storytelling. I still remember th
 
 After traveling to almost 15 countries around the world, I have realized that a castle which is built in 1550 won't give me thrill compared to going on a long hike in an unknown trail with locals and best friends. I prefer experiences to city hopping. I prefere adventurous stuff to a relaxing day at the beach. This year marks the beginning of a new way to experience the world.
 
-* Climb [Mount Fuji](https://en.wikipedia.org/wiki/Mount_Fuji) in Japan
-* Tandem skydiving
-* Boulder in every city wherever it's possible
+> * Climb [Mount Fuji](https://en.wikipedia.org/wiki/Mount_Fuji) in Japan
+> * Tandem skydiving
+> * Boulder in every city wherever it's possible
 
 <br></br>
 

@@ -9,7 +9,6 @@ headTitle = "Rohith Uppala"
 mainSections = ["posts"]
 disqus = "rohithuppala"
 
-
 [languages]
     [languages.en]
         contentDir = "content"
