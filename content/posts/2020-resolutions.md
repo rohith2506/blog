@@ -44,14 +44,11 @@ I would like to mix my experience working of large scale systems with machine le
 >        * Presenting a technical talk on machine learning at a local meetup (0.7)
 >        * Presenting a technical talk on machine learning at an international conference (1.0)
 
-<br></br>
-<br></br>
-<br></br>
-
 
 ## Objective 3: Get better at mobility and flexibility while maintaining the same strength
 
 It's been a year since I started taking fitness seriously in my life and I can't stress enough how helpful it was. **A sound mind lies in a sound body** It helped me to fight my [RSI](https://en.wikipedia.org/wiki/Repetitive_strain_injury), get into the best shape of my life, made me realize the value of healthy eating.
+
 
 Meanwhile, I have my fair share of injuries during this journey. Injured my lower back due to a faulty deadlift session, overtrained shoulder because of frequent bouldering sessions. So, I took a step back and realized that flexibility and organized workout is the key for a long running athletic life. Currently, I train around 3 times in the gym, 1 bouldering session, 2 salsa sessions per week with ample amount of time in between to recover.
 
@@ -61,11 +58,6 @@ Here are some audacious goals for this year in terms of fitness.
 > * Reach to advanced salsa level
 
 For folks who do not know Bouldering, here you go [Bouldering](https://en.wikipedia.org/wiki/Bouldering). Best thing I have picked up this year.
-
-
-<br></br>
-<br></br>
-<br></br>
 
 
 ## Objective 4: Begin the adventures of storytelling
@@ -80,10 +72,6 @@ Since I was a kid, I have been fascinated with storytelling. I still remember th
     * two long stories (1.0)
 
 
-<br></br>
-<br></br>
-<br></br>
-
 
 ## Objective 5: Experience the world instead of just traveling
 
@@ -93,8 +81,6 @@ After traveling to almost 15 countries around the world, I have realized that a 
 * Tandem skydiving
 * Boulder in every city wherever it's possible
 
-
-<br></br>
 <br></br>
 
 I know it's quite exhaustive but this will keep me busy and my life fulfilling. I am having the **best time of my life** and I would like to savor each moment while it lasts. After all, we all got one life to live and I want to live it to the fullest.
