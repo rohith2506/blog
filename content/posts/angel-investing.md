@@ -1,6 +1,6 @@
 ---
 title: "Angel Investing"
-date: 2020-11-28T17:14:28+01:00
+date: 2020-11-28T17:00:28+01:00
 tags: ["misc"]
 ---
 
