@@ -14,4 +14,4 @@ tags: ["misc"]
 8. Learn how to do handstand
 9. Reach to the level of semi intermediate in playing guitar
 10. Write atleast 1-2 stories (or) screenplays and get them known to public
-11. Start youtube streaming
+11. Start podcasting
