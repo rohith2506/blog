@@ -16,3 +16,4 @@ tags: ["misc"]
 10. Take a sabbatical for 1-2 months
 11. Start private pilot course ( Netherlands or Spain )
 12. Get car driving license
+13. Learn piano
