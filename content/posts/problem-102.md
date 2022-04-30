@@ -1,6 +1,6 @@
 ---
 title: "Back to fun programming"
-date: 2022-04-30T20:14:28+01:00
+date: 2022-04-30T15:14:28+01:00
 tags: ["programming", "maths"]
 ---
 
