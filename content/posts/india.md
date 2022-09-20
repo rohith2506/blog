@@ -1,6 +1,6 @@
 ---
 title: "India and Serendipity"
-date: 2022-09-20T11:00:00+01:00
+date: 2022-09-20T14:00:00+05:30
 tags: ["introspection"]
 ---
 
