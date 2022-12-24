@@ -1,6 +1,6 @@
 ---
 title: "Tricky algorithms and their purpose in interviews"
-date: 2022-12-30T11:14:28+01:00
+date: 2022-12-30T10:14:28+01:00
 tags: ["programming", "algorithms"]
 ---
 
