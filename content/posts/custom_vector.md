@@ -99,3 +99,5 @@ public:
     }
 };
 ```
+
+Next, I would try to implement `map`. Would be interesting
