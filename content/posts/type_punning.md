@@ -1,6 +1,6 @@
 ---
 title: "Type punning"
-date: 2023-03-08T16:00:00+01:00
+date: 2023-03-20T16:00:00+01:00
 tags: ["programming", "c++"]
 ---
 
