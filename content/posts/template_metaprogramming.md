@@ -161,4 +161,75 @@ int main() {
 
 ```
 
+##### 7. Write a TMP function which calculates the rank of an array
+
+```
+#include <iostream>
+#include <type_traits>
+
+
+// non array variables
+template<typename T>
+struct Rank {
+    inline static constexpr int value = 0;
+};
+
+// arr[]
+template<typename T>
+struct Rank<T[]> {
+    inline static constexpr int value = 1u + Rank<T>::value;
+};
+
+// This is the generic one will will recurse through stuff
+template<typename T, size_t N>
+struct Rank<T[N]> {
+    inline static constexpr int value = 1u + Rank<T>::value;
+};
+
+int main() {
+    std::cout << Rank<char[2][3]>::value << std::endl;
+    std::cout << Rank<char>::value << std::endl;
+    std::cout << Rank<int*[3][4][5][6]>::value << std::endl;
+    return 0;
+}
+```
+
+##### 8. Assume the vector is sorted, Remove all the duplicate elements from the vector
+
+```
+#include <iostream>
+#include <type_traits>
+#include <vector>
+
+template<int... Ts>
+struct Vector {};
+
+
+template<typename InVector, typename OutVector = Vector<>>
+struct uniq;
+
+// First and second elements are same
+template<int i, int... tail, int... OutVecElements>
+struct uniq<Vector<i, i, tail...>, Vector<OutVecElements...>> {
+    using type = typename uniq<Vector<i, tail...>, Vector<OutVecElements...>>::type;
+};
+
+// First and second elements are not the same
+template<int i, int... tail, int... OutVecElements>
+struct uniq<Vector<i, tail...>, Vector<OutVecElements...>> {
+    using type = typename uniq<Vector<tail...>, Vector<OutVecElements..., i>>::type;
+};
+
+// When the input vector is empty
+template<typename OutVector>
+struct uniq<Vector<>, OutVector> {
+    using type = OutVector;
+};
+
+int main() {
+    static_assert(std::is_same_v<typename uniq<Vector<1,2,2,3,4>>::type, Vector<1,2,3,4>>);
+    return 0;
+}
+```
+
 That's it for now. I still think that there are some knowledge gaps for me in this topic and I will revisit it time to time
