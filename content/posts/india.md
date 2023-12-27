@@ -1,5 +1,5 @@
 ---
-title: "India - Invisible Inequality"
+title: "Invisible Poverty"
 date: 2022-09-20T13:00:00+05:30
 tags: ["introspection"]
 ---
