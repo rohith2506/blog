@@ -1,5 +1,5 @@
 ---
-title: "India & Serendipity"
+title: "India - Invisible Inequality"
 date: 2022-09-20T13:00:00+05:30
 tags: ["introspection"]
 ---
@@ -16,4 +16,4 @@ My mother tries her best to help some of these families, and I have personally s
 
 When this wealth gap becomes too wide, it can erode the moral foundations that keep our civilization stable. My brother told me that the crime rate in Nellore has doubled in recent years, largely due to invisible poverty.
 
-This is not just another post pointing out problems and offering solutions, as if no one else is smart enough to do so. The problem is simple, but the solutions are complex, specific to geographic locations, and require the cooperation of multiple institutions and groups over a long period of time. All I ask is that if you are in a position to share your wealth or income with others, please do so. You don't have to donate to the homeless or beggars, you can start in your own backyard. Look around you. The maid who cleans your house but can't pay her rent, the security guard who can't afford to educate his children. Just pay attention and be serendipitous
+This is not just another post pointing out problems and offering solutions, as if no one else is smart enough to do so. The problem is simple, but the solutions are complex, specific to geographic locations, and require the cooperation of multiple institutions and groups over a long period of time. All I ask is that if you are in a position to share your wealth or income with others, please do so. You don't have to donate to the homeless or beggars, you can start in your own backyard. Look around you. The maid who cleans your house but can't pay her rent, the security guard who can't afford to educate his children. Just pay attention
