@@ -20,4 +20,4 @@ Then, one day, it happened after almost three months. It was a gray Thursday eve
 
 It's been 17 years, yet whenever I return home and stroll down that familiar street, my gaze inevitably drifts to that balcony, despite knowing the family moved away long ago. Some habits, it seems, cling to us steadfastly. A friend informed me that she's now married, residing with her husband somewhere in the USA. To her, I'm likely a non-existing memory, if even that, but for me, she symbolizes the genesis of something beautiful that endures to this day. At times, I ponder what might have unfolded had I mustered the courage to speak to her. Yet, perhaps it's for the best; some emotions are best cherished in solitude. 
 
-I believed I'd never experience such feeling of attraction again, refocusing my energies on academics. But fate had other plans, as I discovered during my pre-college years—a tale I'll share in the next installment
+I believed I'd never experience such feeling of attraction again, refocusing my energies on academics. But fate had other plans, as I discovered during my university days—a tale I'll share in the next installment
