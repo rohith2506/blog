@@ -6,6 +6,8 @@ tags: ["misc"]
 
 Instead of setting yearly resolutions, I’ve decided to focus on something more meaningful—a growing list of experiences and moments I want to embrace in my lifetime. This isn’t a rigid or exhaustive list; it’s a living document that will evolve as I do. Each item represents a step toward living fully, and as I complete them, I’ll strike them off and share the story behind the experience.
 
+
+
 1. Learn piano and jam with other people / perform in front of audience for 30 minutes
 2. Front Lever for 30 seconds
 3. Deep water solo in Mallorca
